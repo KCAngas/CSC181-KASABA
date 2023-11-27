@@ -1,0 +1,29 @@
+.NAV-BAR {
+  position: relative;
+  width: 1500px;
+  height: 150px;
+  background-color: #650039;
+}
+
+.NAV-BAR .navbar {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 52.4px;
+  position: absolute;
+  top: 80px;
+  left: 688px;
+}
+
+.NAV-BAR .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.86px;
+  font-family: "Inknut Antiqua-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 25.8px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
